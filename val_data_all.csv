@@ -1,0 +1,349 @@
+﻿question,table_file,answer_coordinates,answer_text,aggregation_label,float_answer,label
+What is the elevation of Ground in meters above sea level?,52Theparade(rvt2017)_floor.csv,"['(1, 2)']",['-46.5370539649164'],0,-46.53705396,floor
+"How many windows are in the building, do you know?",161210Med_Dent_Clinic_Combined_floor.csv,"['(8, 7)', '(9, 7)', '(13, 7)']",['94.0'],1,94,floor
+What is the number of stairs on EG?,20170601_Mauer_BmB_floor.csv,"['(2, 4)']",['1.0'],0,1,floor
+How many stairs are there in 4th Floor?,OfficeBuilding_floor.csv,"['(2, 5)']",['5.0'],0,5,floor
+How high above the ground is Level 7 in relation to sea level?,Learningzonecorentin_floor.csv,"['(8, 2)']",['6.823'],0,6.823,floor
+What is the door count of toiture?,BUREAUX_CHURCHILL_AMENAGEMENT_INTERIEUR_floor.csv,"['(4, 4)']",['2'],0,2,floor
+How high above sea level is MEP Parapet _1 in relation to the ground?,161210Med_Dent_Clinic_MEP_Mech_floor.csv,"['(2, 2)']",['5334.000000002554'],0,5334,floor
+Can you provide the number of floors in the building?,bouwlaag_1_floor.csv,"['(0, 1)', '(1, 1)', '(2, 1)', '(3, 1)', '(4, 1)', '(5, 1)', '(6, 1)', '(7, 1)', '(8, 1)', '(9, 1)', '(10, 1)', '(11, 1)', '(12, 1)']",['13'],3,13,floor
+Can you tell me the number of windows in 04 vierde verdieping?,GevelsDefinitief_floor.csv,"['(5, 4)']",['156.0'],0,156,floor
+What is the elevation of Roof in relation to ground level?,duplex_floor.csv,"['(3, 2)']",['6.00000000000039'],0,6,floor
+What is the height of 06 Dak in relation to ground level?,GevelsDefinitief_floor.csv,"['(7, 2)']",['24500.0'],0,24500,floor
+Can you tell me the number of windows available in 01 TO SOG?,Architectural_floor.csv,"['(0, 3)']",['22.0'],0,22,floor
+Can you let me know the number of beams in the building?,Structuralframe2017.03_floor.csv,"['(1, 4)', '(2, 4)', '(3, 4)', '(4, 4)', '(5, 4)']",['260.0'],1,260,floor
+Can you give me the elevation of Roof?,091210Med_Dent_Clinic_Arch_floor.csv,"['(2, 2)']",['8535.00000000001'],0,8535,floor
+How many LoadBearing columns are there in this building?,0912103-02OpeningsInExtrudedColumns_rev_1_column.csv,"['(0,5)','(1,5)','(2,5)','(3,5)']",['4'],3,4,column
+Could you tell me the number of stairs present on 11F?,project-checking-new_floor.csv,"['(10, 6)']",['1.0'],0,1,floor
+which floor does door 729 belong to?,1Floor_6Walls_5Doors_1Roof_door.csv,"['(0,7)']",['Level 1'],0,,door
+Can you tell me the number of windows available in 02 tweede verdieping?,IFC_Schependomlaan_floor.csv,"['(3, 6)']",['66.0'],0,66,floor
+Can you tell me the elevation of 00 begane grond?,bouwlaag_1_floor.csv,"['(9, 2)']",['0.0'],0,0,floor
+How many stories are there in the building?,Building_52Theparade(rvt2017)_floor.csv,"['(0, 1)', '(1, 1)', '(2, 1)', '(3, 1)', '(4, 1)', '(5, 1)', '(6, 1)', '(7, 1)']",['8'],3,8,floor
+What is the height of 00 begane grond above sea level?,IFC-kapconstructie_dakkapellen_platdak_floor.csv,"['(0, 2)']",['0.0'],0,0,floor
+Can you give me the elevation of -01. Fundering above the ground?,01_BIMcollab_Example_ARC_floor.csv,"['(0, 2)']",['-800.0'],0,-800,floor
+Can you give me the number of doors on First Floor?,091210Med_Dent_Clinic_Arch_floor.csv,"['(0, 4)']",['304.0'],0,304,floor
+Can you give me the total number of columns in Level 1?,rac_basic_sample_project1_floor.csv,"['(2, 8)']",['2.0'],0,2,floor
+Can you give me the total number of windows in Roof?,Duplex_A_20110907_optimized_with_changes_floor.csv,"['(1, 3)']",['4.0'],0,4,floor
+Can you provide the elevation of 1. etasje in relation to sea level?,ARK_floor.csv,"['(2, 2)']",['0.0'],0,0,floor
+Can you give me the door count present on Niveau 10?,52Theparade(rvt2017)_floor.csv,"['(3, 3)']",['6.0'],0,6,floor
+How high above sea level is rez-de-chauss鑼卐 in meters?,BUREAUX_CHURCHILL_AMENAGEMENT_INTERIEUR_floor.csv,"['(1, 2)']",['6.99028444488467e-12'],0,6.99E-12,floor
+How tall is the building in terms of number of storeys?,StructuralModel_floor.csv,"['(0, 1)', '(1, 1)', '(2, 1)', '(3, 1)']",['4'],3,4,floor
+Show me the name of  stair which has maximum RiserHeight.,20110616_bookTowerGhent_stair.csv,"['(31,2)']",['Stair:Monolithic Stair:307242'],0,,stair
+Can you provide the elevation of 04 vierde verdieping above sea level?,bouwlaag_1_floor.csv,"['(6, 2)']",['0.0'],0,0,floor
+How many doors are there in Level 1 Living Rm.?,rac_basic_sample_project_floor.csv,"['(1, 6)']",['2.0'],0,2,floor
+how many bathroom are there in the building?,0912102010-03-01Project_space.csv,"['(8,3)','(9,3)']",['2'],3,2,space
+What is the window count of Level 2?,rac_basic_sample_project_floor.csv,"['(4, 4)']",['14.0'],0,14,floor
+What is the elevation of Niveau 12 above sea level?,52Theparade(rvt2017)_floor.csv,"['(4, 2)']",['2248.66294603508'],0,2248.662946,floor
+How many doors does 5th Floor have?,OfficeBuilding_floor.csv,"['(1, 4)']",['74'],0,74,floor
+What is the number of windows on 04 dak?,IFC-gebouw_floor.csv,"['(5, 6)']",['5.0'],0,5,floor
+How many rooms can be found in the building?,CHIAP_PRO_ARC_NORD_floor.csv,"['(0, 8)', '(1, 8)', '(2, 8)', '(3, 8)']",['198.0'],1,198,floor
+Can you tell me the number of railings in the building?,Architectural_floor.csv,"['(0, 8)', '(1, 8)', '(2, 8)']",['15.0'],1,15,floor
+What is the total number of columns on Level 2?,rac_basic_sample_project_floor.csv,"['(4, 8)']",['1.0'],0,1,floor
+Can you tell me the height of 04 vierde verdieping?,bouwlaag_1_floor.csv,"['(7, 2)']",['0.0'],0,0,floor
+Can you give me the height of 3.8 above sea level?,shanpao1_floor.csv,"['(13, 2)']",['3800.0'],0,3800,floor
+What is the elevation of 6F above ground level?,project-checking-new_floor.csv,"['(5, 2)']",['14000.0'],0,14000,floor
+"The column count for the building, what is it?",Tausendpfund_FLUX_ModellwithRooms2018version_floor.csv,"['(0, 3)', '(1, 3)', '(2, 3)']",['13.0'],1,13,floor
+Can you tell me the door count within the building?,CHIAP_PRO_ARC_NORD_floor.csv,"['(0, 4)', '(1, 4)', '(2, 4)', '(3, 4)']",['546.0'],1,546,floor
+How many loadbearing beams are not external ?,20170601_Mauer_BmB_beam.csv,"['(0,4)','(1,4)','(2,4)','(3,4)','(4,4)','(5,4)','(6,4)','(7,4)','(8,4)','(9,4)','(10,4)','(11,4)','(12,4)','(13,4)','(14,4)','(15,4)','(16,4)','(17,4)']",['18'],3,18,beam
+Can you give me the number of doors on 2.OG?,GoogleFurnitureANDTechnology_2018-11-27_1130_floor.csv,"['(3, 3)']",['8.0'],0,8,floor
+How high above the ground level is Niveau 13?,52TheparadewithSpaces_floor.csv,"['(6, 2)']",['4043.86294603508'],0,4043.862946,floor
+Can you provide the height of 3.7?,shanpao1_floor.csv,"['(12, 2)']",['3700.0'],0,3700,floor
+How high above the ground is 12F?,project-checking-new_floor.csv,"['(11, 2)']",['30800.0'],0,30800,floor
+What is the space count on Level 2?,tent2_floor.csv,"['(1, 5)']",['17.0'],0,17,floor
+Can you tell me the height of MEP 2nd Flr Return?,161210Med_Dent_Clinic_Combined_floor.csv,"['(7, 2)']",['7600'],0,7600,floor
+What is the door count for Level 2?,20160414office_model_CV2_fordesign_floor.csv,"['(2, 4)']",['4'],0,4,floor
+What is the total number of stairs on Ground?,Learningzonecorentin_floor.csv,"['(0, 6)']",['10.0'],0,10,floor
+Can you give me the stair count of 2F?,project-checking-new_floor.csv,"['(1, 6)']",['1.0'],0,1,floor
+How many windows are there on Ground?,Learningzonecorentin_floor.csv,"['(0, 4)']",['283.0'],0,283,floor
+What is the number of floors in the structure?,IFC-houtenkozijnen_floor.csv,"['(0, 1)', '(1, 1)', '(2, 1)', '(3, 1)']",['4'],3,4,floor
+Can you provide the height of dak?,980d4a29-7879-42fa-902c-0df8fdd8ebd3_floor.csv,"['(15, 2)']",['0.0'],0,0,floor
+Can you tell me the number of columns in BG?,980d4a29-7879-42fa-902c-0df8fdd8ebd3_floor.csv,"['(3, 4)']",['80.0'],0,80,floor
+How high above the ground is 03 derde verdieping?,bouwlaag_1_floor.csv,"['(4, 2)']",['0.0'],0,0,floor
+How many columns are present in 05 dakplan?,bouwlaag_2_floor.csv,"['(9, 4)']",['124.0'],0,124,floor
+Could you provide the space count of Level 0?,EngBuiding_IFC2x3_floor.csv,"['(1, 8)']",['81.0'],0,81,floor
+How high above the ground is KS_PL 02. verdieping in relation to sea level?,02_BIMcollab_Example_STR_floor.csv,"['(3, 2)']",['7000.0'],0,7000,floor
+Can you give me the window count of toiture?,BUREAUX_CHURCHILL_AMENAGEMENT_INTERIEUR_floor.csv,"['(4, 8)']",['3.0'],0,3,floor
+What is the door count of Level 2?,tent2_floor.csv,"['(1, 3)']",['27.0'],0,27,floor
+which spaces are door Int Single-Flush (NZ):860 x 1981 FRR:21157 connected to?,Simple3-storeytestbuilding_door.csv,"['(6,6)','(6,9)']","['64677','64752']",0,,door
+What is the door count on F0?,12-1-1_floor.csv,"['(0, 6)']",['6.0'],0,6,floor
+Can you tell me the elevation of Level 3?,Tausendpfund_FLUX_ModellwithRooms2018version_floor.csv,"['(3, 2)']",['9.77999999999971'],0,9.78,floor
+Could you provide the stair count of Floor 1?,0912102010-03-01Project (1)_floor.csv,"['(1, 3)']",['2.0'],0,2,floor
+Can you give me the number of spaces on 1. Obergeschoss?,261110Allplan-2008-Institute-Var-2-IFC_floor.csv,"['(2, 6)']",['22'],0,22,floor
+How many loadbearing beams are there on the level 1?,Duplex_A_20110907_optimized_with_changes_beam.csv,"['(0,5)','(1,5)','(4,5)','(7,5)']",['4'],3,4,beam
+What is the window count for the building?,IFCSchependomlaan_floor.csv,"['(1, 6)', '(2, 6)', '(3, 6)', '(4, 6)', '(5, 6)']",['299.0'],1,299,floor
+How high above sea level is RH in relation to the ground?,CHIAP_PRO_ARC_NORD_floor.csv,"['(0, 2)']",['-5.3163521957604895e-12'],0,-5.32E-12,floor
+Can you tell me the window count for the building?,Building_52Theparade(rvt2017)_floor.csv,"['(1, 4)', '(2, 4)', '(4, 4)', '(5, 4)']",['38.0'],1,38,floor
+How many furnitures have Furniture_id number between 70500 and 70550?,01_General-Classroom1111_furniture.csv,"['(18,3)','(19,3)']",['2'],3,2,furniture
+Can you give me the height of Pavimento 6 in relation to sea level?,BEAM10STOREYifc4EBERICK_floor.csv,"['(5, 2)']",['1500.0'],0,1500,floor
+"The building's door quantity, can you tell me?",IFC-gebouw_floor.csv,"['(1, 7)', '(2, 7)', '(3, 7)', '(4, 7)']",['239.0'],1,239,floor
+Can you tell me the height of Mur de fondation T.O?,Building_52Theparade(rvt2017)_floor.csv,"['(0, 2)']",['-300.0'],0,-300,floor
+How many doors are there on Niveau 12?,52TheparadewithSpaces_floor.csv,"['(4, 3)']",['1.0'],0,1,floor
+I want to view the name of stair 25516,091210Med_Dent_Clinic_Arch_stair.csv,"['(0,2)']",['Stair:190mm max riser 250mm going:165657'],0,,stair
+Could you provide the door count for V2_21_metselwerk scheidingslijn?,89f01178-ef8b-4240-88ee-74ca8ea62f5b_floor.csv,"['(2, 5)']",['20.0'],0,20,floor
+Can you provide the number of windows present on 04 dak?,IFC_Schependomlaan_floor.csv,"['(5, 6)']",['5.0'],0,5,floor
+Can you give me the height of 02 tweede verdieping above sea level?,bouwlaag_1_floor.csv,"['(3, 2)']",['0.0'],0,0,floor
+How many stairs are there on KG?,20170601_Mauer_BmB_floor.csv,"['(1, 4)']",['1.0'],0,1,floor
+Could you provide me with the number of columns in the building?,rac_basic_sample_project1_floor.csv,"['(2, 8)', '(4, 8)']",['3.0'],1,3,floor
+How many furnitures with Space_LongName Floor Plan have Furniture_id number between 50000 and 70000?,01_General-Classroom1111_furniture.csv,"['(0,3)','(1,3)']",['2'],3,2,furniture
+What is the number of stairs on Level 1?,Duplex_A_20110907_floor.csv,"['(0, 5)']",['2.0'],0,2,floor
+How many columns are there on floor 00 Begane grond?,01_BIMcollab_Example_ARC_floor.csv,"['(1,6)']",['10'],0,10,floor
+Could you give me the total number of doors on 01 eerste verdieping?,IFC-gebouw_floor.csv,"['(2, 7)']",['57.0'],0,57,floor
+Could you provide the quantity of beams in the building?,002_floor.csv,"['(0, 4)', '(1, 4)', '(2, 4)', '(3, 4)']",['780.0'],1,780,floor
+Can you tell me the number of rooms in 5th Floor?,OfficeBuilding_floor.csv,"['(1, 7)']",['41'],0,41,floor
+What is the door count for Niveau 9?,Building_52Theparade(rvt2017)_floor.csv,"['(5, 3)']",['2.0'],0,2,floor
+What is the height of door Garage - Horz Pnl:1900x2250:149952?,002.NP_A_door.csv,"['(1,4)']",['2250'],0,2250,door
+Can you give me the window count of Roof?,Duplex_A_20110907_floor.csv,"['(3, 3)']",['4.0'],0,4,floor
+How many levels are there in the building?,GevelsDefinitief_floor.csv,"['(0, 1)', '(1, 1)', '(2, 1)', '(3, 1)', '(4, 1)', '(5, 1)', '(6, 1)', '(7, 1)']",['8'],3,8,floor
+What is the id of window with space id 303218?,231110AC11-FZK-Haus-IFC_window.csv,"['(0,5)']",['8545'],0,8545,window
+Can you provide the height of 1e?,14.111_AVEC_VEEMARKTKWARTIER_150206_floor.csv,"['(4, 2)']",['0.0'],0,0,floor
+Can you tell me how many rooms the building has?,house_no_geo_floor.csv,"['(0, 7)', '(1, 7)']",['15.0'],1,15,floor
+Can you provide the elevation of MEP 1st Flr Return?,161210Med_Dent_Clinic_Combined_floor.csv,"['(3, 2)']",['3100'],0,3100,floor
+What is the door count of Level 3?,Simple3-storeytestbuilding_floor.csv,"['(2, 3)']",['4.0'],0,4,floor
+How many columns have Grossvolumn 0.3915?,01_BIMcollab_Example_ARC_column.csv,"['(0,7)','(7,7)','(8,7)','(9,7)']",['4'],3,4,column
+Can you tell me the number of columns on 03 derde verdieping?,kelder_floor.csv,"['(3, 4)']",['257.0'],0,257,floor
+What is the door count of Level 5?,Project1_floor.csv,"['(7, 3)']",['15.0'],0,15,floor
+What is the number of stairs on 02 tweede verdieping?,IFC_Schependomlaan_floor.csv,"['(3, 4)']",['3.0'],0,3,floor
+Which beam on the floor level 2 is with beam_id 28785?,duplex_beam.csv,"['(0,2)']",['M_W-Wide Flange:W310X60:207325'],0,,beam
+"The number of stairs in the building, do you know it?",Project1_floor.csv,"['(0, 4)', '(1, 4)', '(2, 4)', '(3, 4)', '(4, 4)', '(5, 4)', '(6, 4)', '(7, 4)', '(8, 4)']",['27.0'],1,27,floor
+Can you give me the elevation of toiture above ground level?,BUREAUX_CHURCHILL_AMENAGEMENT_INTERIEUR_floor.csv,"['(4, 2)']",['9.6'],0,9.6,floor
+Tell me the name of the door with width 10,002.NP_A_door.csv,"['(1,2)']",['(Garage - Horz Pnl:1900x2250:149952)'],0,,door
+Could you tell me the number of columns present on 2e verdieping?,002_floor.csv,"['(1, 3)']",['15.0'],0,15,floor
+Can you give me the total number of spaces in OG?,20170601_Mauer_BmB_floor.csv,"['(3, 6)']",['5.0'],0,5,floor
+Could you provide the total number of doors on Mur de fondation T.O?,52Theparade(rvt2017)_floor.csv,"['(0, 3)']",['1.0'],0,1,floor
+What is the elevation of KS_PL 03. Dak above the ground?,02_BIMcollab_Example_STR_floor.csv,"['(4, 2)']",['10500.0'],0,10500,floor
+What is the elevation of 4.5?,shanpao1_floor.csv,"['(16, 2)']",['4500.0'],0,4500,floor
+What is the number of spaces on EG?,20170601_Mauer_BmB_floor.csv,"['(2, 6)']",['5.0'],0,5,floor
+How many windows are there in 2. Obergeschoss?,261110Allplan-2008-Institute-Var-2-IFC_floor.csv,"['(3, 3)']",['108.0'],0,108,floor
+Can you tell me the door count on Niveau 1?,52Theparade(rvt2017)_floor.csv,"['(2, 3)']",['3.0'],0,3,floor
+"among all windows, which is the widest?",04_Flat_window.csv,"['(2,2)']",['M_Fixed:1900 x 1100mm:322061'],0,,window
+What is the maximum number of doors in these spaces?,CAAD_space.csv,"['(8,6)']",['6'],0,6,space
+How many stairs are present in Level 1 Living Rm.?,rac_basic_sample_project_floor.csv,"['(1, 3)']",['1.0'],0,1,floor
+the total number of external windows?,04_Flat_window.csv,"['(0,6)','(1,6)','(2,6)','(3,6)','(4,6)','(5,6)','(6,6)']",['7'],3,7,window
+"The total number of stair flights in the building, what is it?",Savoyvilla_floor.csv,"['(1, 7)', '(2, 7)']",['4.0'],1,4,floor
+Can you provide the number of windows present on Level 2?,tent2_floor.csv,"['(1, 8)']",['24.0'],0,24,floor
+Can you give me the height of Level 2 in relation to sea level?,EngBuiding_IFC2x3_floor.csv,"['(3, 2)']",['4499.99999999952'],0,4500,floor
+Is the beam named as IPE-Beams:IPE80:457493 external?,20170601_Mauer_BmB_beam.csv,"['(4,4)']",['FALSE'],0,,beam
+How high above the ground is 3e in meters?,14.111_AVEC_VEEMARKTKWARTIER_150206_floor.csv,"['(9, 2)']",['0.0'],0,0,floor
+Can you let me know the number of beams in the building?,IFCSchependomlaan_floor.csv,"['(0, 3)', '(1, 3)', '(2, 3)', '(3, 3)', '(4, 3)', '(5, 3)']",['174'],1,174,floor
+is the widest door an external stair?,UC_door.csv,"['(5,6)']",['False'],0,,door
+What is the height of 03 derde verdieping?,IFC-houtenkozijnen_floor.csv,"['(3, 2)']",['9000.0'],0,9000,floor
+How high above the ground is HIGHBAY CRAWL SPACE in meters?,EngBuiding_IFC2x3_floor.csv,"['(0, 2)']",['-7900.00000000049'],0,-7900,floor
+Can you give me the total number of windows in 2鐚玬e 鑼卼age?,BUREAUX_CHURCHILL_AMENAGEMENT_INTERIEUR_floor.csv,"['(3, 8)']",['57.0'],0,57,floor
+Can you tell me the elevation of 1e?,14.111_AVEC_VEEMARKTKWARTIER_150206_floor.csv,"['(12, 2)']",['0.0'],0,0,floor
+"The window quantity within the building, what is it?",IFC-houtenkozijnen_floor.csv,"['(0, 3)', '(1, 3)', '(2, 3)', '(3, 3)']",['107'],1,107,floor
+Output the name of the door with id 300500,231110AC11-FZK-Haus-IFC_door.csv,"['(0,2)']",['Haustuer'],0,,door
+Can you tell me the number of doors in 01 TO SOG?,Architectural_floor.csv,"['(0, 4)']",['37.0'],0,37,floor
+Can you tell me the number of doors in Level 2?,Project1_floor.csv,"['(4, 3)']",['8.0'],0,8,floor
+Can you tell me the height of Niveau 9 above ground level?,52Theparade(rvt2017)_floor.csv,"['(5, 2)']",['2848.66294603508'],0,2848.662946,floor
+What is the elevation of Level 0 in meters above sea level?,Tausendpfund_FLUX_ModellwithRooms2018version_floor.csv,"['(0, 2)']",['0.0'],0,0,floor
+How many stairs does Floor 1 have?,0912102010-03-01Project_floor.csv,"['(1, 3)']",['2.0'],0,2,floor
+How many windows are there on Niveau 9?,52Theparade(rvt2017)_floor.csv,"['(5, 4)']",['12.0'],0,12,floor
+What is the biggest beam_id number of beams on the level 2,Duplex_A_20110907_optimized_with_changes_beam.csv,"['(6,3)']",['177'],0,177,beam
+What is the total number of stairs on Level 3?,EngBuiding_IFC2x3_floor.csv,"['(4, 5)']",['3.0'],0,3,floor
+What is the total number of stairs on Keller?,AC20-Institute-Var-2_EQU_2018_floor.csv,"['(0, 3)']",['4.0'],0,4,floor
+Can you provide the number of stairs on Level 6?,Project1_floor.csv,"['(8, 4)']",['1.0'],0,1,floor
+what is the long name of space 672?,DEMO4_space.csv,"['(4,3)']",['Room'],0,,space
+"The total number of window frames in the building, what is it?",52Theparade(rvt2017)_floor.csv,"['(1, 4)', '(2, 4)', '(3, 4)', '(4, 4)', '(5, 4)']",['26.0'],1,26,floor
+What is the height of BG in relation to ground level?,reinforcement.i_floor.csv,"['(1, 2)']",['0.0'],0,0,floor
+How many doors are there in Level 5?,EngBuiding_IFC2x3_floor.csv,"['(6, 4)']",['28.0'],0,28,floor
+Is column 176 external?,0912103-02OpeningsInExtrudedColumns_rev_1_column.csv,"['(2,4)']",['FALSE'],0,,column
+What is the total number of columns on 2e?,14.111_AVEC_VEEMARKTKWARTIER_150206_floor.csv,"['(6, 3)']",['107.0'],0,107,floor
+Can you tell me the number of spaces available in 1F?,project-checking-new_floor.csv,"['(0, 8)']",['7.0'],0,7,floor
+What is the biggest beam_id of beams on the level 2?,Duplex_A_20110907_optimized_beam.csv,"['(6,3)']",['177'],0,177,beam
+What is the elevation of 1 above ground level?,Architecturalmodel_floor.csv,"['(2, 2)']",['3423.33333333321'],0,3423.333333,floor
+What is the total room count on Level 1?,20160414office_model_CV2_fordesign_floor.csv,"['(1, 7)']",['3'],0,3,floor
+What is the space count of Level 2?,Duplex_A_20110907_optimized_with_changes_floor.csv,"['(0, 6)']",['10.0'],0,10,floor
+Can you provide the number of spaces on 03 derde verdieping?,IFC_Schependomlaan_floor.csv,"['(4, 9)']",['19.0'],0,19,floor
+Could you tell me the number of windows present on 2. Obergeschoss?,231110AC11-Institute-Var-2-IFC_floor.csv,"['(3, 3)']",['108.0'],0,108,floor
+How high above sea level is 00 begane grond in relation to the ground?,IFC-traphekken_floor.csv,"['(0, 2)']",['0.0'],0,0,floor
+Sum the GrossVolume value of columns on the KS_PL -01. Fundering.,02_BIMcollab_Example_STR_column.csv,"['(9,4)','(10,4)','(11,4)','(12,4)','(13,4)','(14,4)']",['7.048633966'],1,7.048633966,column
+Can you give me the number of stairs on 01 verdieping?,01_BIMcollab_Example_ARC_floor.csv,"['(2, 7)']",['1.0'],0,1,floor
+Can you give me the elevation of Level 1 Living Rm. above ground level?,rac_basic_sample_project1_floor.csv,"['(1, 2)']",['-550.0'],0,-550,floor
+Can you give me the floor count for the structure?,OfficeBuilding_floor.csv,"['(0, 1)', '(1, 1)', '(2, 1)', '(3, 1)', '(4, 1)']",['5'],3,5,floor
+"among these spaces, which space has most number of doors?",FZK-House_space.csv,"['(4,1)']",['26267'],0,26267,space
+Could you provide the window count for Level 2?,Duplex_A_20110907_optimized_with_changes_floor.csv,"['(0, 3)']",['36.0'],0,36,floor
+Could you provide the stair count for N2?,CHIAP_PRO_ARC_NORD_floor.csv,"['(2, 5)']",['1.0'],0,1,floor
+What is the total number of doors present in 00 Begane grond?,01_BIMcollab_Example_ARC_floor.csv,"['(1, 5)']",['31.0'],0,31,floor
+Can you provide the elevation of 3e?,14.111_AVEC_VEEMARKTKWARTIER_150206_floor.csv,"['(11, 2)']",['0.0'],0,0,floor
+Could you tell me the number of rooms present on toiture?,BUREAUX_CHURCHILL_AMENAGEMENT_INTERIEUR_floor.csv,"['(4, 6)']",['2'],0,2,floor
+How many doors are there in 5F?,project-checking-new_floor.csv,"['(4, 5)']",['42.0'],0,42,floor
+"In the space Level 16 (49.25), which furniture has the smallest furniture_id number ?",20110616_bookTowerGhent_furniture.csv,"['(16,2)']",['BK_boekenkast:2400x300x2100mm:2400x300x2100mm:348378'],0,,furniture
+Can you give me the height of Level 1 above sea level?,rac_basic_sample_project_floor.csv,"['(2, 2)']",['0.0'],0,0,floor
+What is the door count of Level -2?,Project1_floor.csv,"['(0, 3)']",['95.0'],0,95,floor
+what is the elevation of 00 Begane grond?,01_BIMcollab_Example_ARC_floor.csv,"['(1,2)']",['0'],0,0,floor
+"how many doors in floor 00_EG_OKFB_0,00",UC_door.csv,"['(6,7)','(7,7)','(8,7)','(9,7)','(10,7)']",['5'],3,5,door
+What is the height of 00 begane grond in relation to ground level?,bouwlaag_1_floor.csv,"['(0, 2)']",['0.0'],0,0,floor
+Can you share the quantity of beams in the building?,duplex_floor.csv,"['(2, 9)', '(3, 9)']",['8.0'],1,8,floor
+What's the name of column 12445?,02_BIMcollab_Example_STR_column.csv,"['(13,2)']",['28_2 Gewapend beton - prefab Kolom D300:28_2 Gewapend beton - prefab Kolom D300:407504'],0,,column
+Can you inform me of the window quantity in the building?,89f01178-ef8b-4240-88ee-74ca8ea62f5b_floor.csv,"['(0, 4)', '(1, 4)', '(2, 4)', '(3, 4)', '(4, 4)', '(5, 4)']",['464'],1,464,floor
+which floor has most number of beams?,14.111_AVEC_VEEMARKTKWARTIER_150206_floor.csv,"['(0,1)']",['Undefined'],0,,floor
+Could you provide the window count for 7F?,project-checking-new_floor.csv,"['(6, 4)']",['71.0'],0,71,floor
+How many doors are there in Level 1?,rac_basic_sample_project1_floor.csv,"['(2, 6)']",['7.0'],0,7,floor
+Can you provide the height of Foundation?,rac_basic_sample_project_floor.csv,"['(0, 2)']",['-800.0'],0,-800,floor
+How many stories does the structure have?,bouwlaag_2_floor.csv,"['(0, 1)', '(1, 1)', '(2, 1)', '(3, 1)', '(4, 1)', '(5, 1)', '(6, 1)', '(7, 1)', '(8, 1)', '(9, 1)', '(10, 1)', '(11, 1)', '(12, 1)', '(13, 1)', '(14, 1)']",['15'],3,15,floor
+Could you tell me the number of rooms present on Roof - Main?,Clinic_A_20110906_floor.csv,"['(3, 7)']",['6.0'],0,6,floor
+Can you give me the floor count for the structure?,IFCSchependomlaan_floor.csv,"['(0, 1)', '(1, 1)', '(2, 1)', '(3, 1)', '(4, 1)', '(5, 1)']",['6'],3,6,floor
+"The stair total in the building, what is it?",231110AC11-Institute-Var-2-IFC_floor.csv,"['(0, 5)', '(1, 5)', '(2, 5)', '(3, 5)']",['4.0'],1,4,floor
+Can you tell me the total number of columns on 1. etasje?,ARK_floor.csv,"['(2, 6)']",['1.0'],0,1,floor
+Could you tell me how many floors the building has?,reinforcement.i_floor.csv,"['(0, 1)', '(1, 1)', '(2, 1)', '(3, 1)', '(4, 1)', '(5, 1)', '(6, 1)', '(7, 1)', '(8, 1)', '(9, 1)']",['10'],3,10,floor
+"How many doors are in the building, do you know?",IFC-houtenkozijnen_floor.csv,"['(0, 4)', '(1, 4)', '(2, 4)', '(3, 4)']",['59'],1,59,floor
+Could you give me an idea of the number of stairs in the building?,20170804_Musterhaus_MIT_floor.csv,"['(1, 4)', '(2, 4)', '(3, 4)']",['3.0'],1,3,floor
+Can you tell me the number of doors on 4F?,project-checking-new_floor.csv,"['(3, 5)']",['34.0'],0,34,floor
+How high above the ground is OG?,20170601_Mauer_BmB_floor.csv,"['(3, 2)']",['2.75'],0,2.75,floor
+What is the elevation of 02 tweede verdieping in relation to ground level?,kelder_floor.csv,"['(7, 2)']",['0.0'],0,0,floor
+How many columns on the T宀奉毚G 4 floor are LoadBearing?,002.NP_A_column.csv,"['(11,4)','(12,4)']",['2'],3,2,column
+"The building's door quantity, can you tell me?",0912102010-03-01Project (1)_floor.csv,"['(1, 4)', '(2, 4)']",['20.0'],1,20,floor
+how many doors are more than 2000 in width?,52Theparade(rvt2017)_door.csv,"['(9,3)','(11,3)']",['2'],3,2,door
+Can you provide the elevation of Niveau 9 above the ground?,52TheparadewithSpaces_floor.csv,"['(5, 2)']",['2848.66294603508'],0,2848.662946,floor
+Can you tell me the number of spaces on Level 5?,EngBuiding_IFC2x3_floor.csv,"['(6, 8)']",['29.0'],0,29,floor
+Could you provide the window count of 6F?,project-checking-new_floor.csv,"['(5, 4)']",['71.0'],0,71,floor
+Can you let me know the window count inside the building?,20160414office_model_CV2_fordesign_floor.csv,"['(0, 3)', '(1, 3)', '(2, 3)', '(3, 3)']",['16'],1,16,floor
+"The total number of room units in the building, what is it?",Savoyvilla_floor.csv,"['(1, 8)']",['1.0'],1,1,floor
+Can you provide the number of stairs on V1_21_metselwerk_scheidingslijn?,89f01178-ef8b-4240-88ee-74ca8ea62f5b_floor.csv,"['(1, 7)']",['2.0'],0,2,floor
+What is the window count of 02 verdieping?,01_BIMcollab_Example_ARC_floor.csv,"['(3, 4)']",['22.0'],0,22,floor
+"The quantity of beams in the building, do you know it?",Duplex_A_20110907_optimized_with_changes_floor.csv,"['(0, 5)', '(2, 5)']",['8.0'],1,8,floor
+"The column quantity within the building, what is it?",89f01178-ef8b-4240-88ee-74ca8ea62f5b_floor.csv,"['(0, 3)']",['7.0'],1,7,floor
+Can you give me the door count present on Level 1 Living Rm.?,rac_basic_sample_project1_floor.csv,"['(1, 6)']",['2.0'],0,2,floor
+How high above ground level is N1 in relation to sea level?,CHIAP_PRO_ARC_NORD_floor.csv,"['(1, 2)']",['3.4'],0,3.4,floor
+the number of doors in level 1?,1Floor_6Walls_5Doors_1Roof_door.csv,"['(0,7)','(1,7)','(2,7)','(3,7)','(4,7)']",['5'],3,5,door
+How many railings can be found in the building?,provamodel_floor.csv,"['(5, 10)']",['2.0'],1,2,floor
+How many furnitures with Space_LongName Seminaraum have furniture_id number from 19500 to 19700?,231110AC11-Institute-Var-2-IFC_furniture.csv,"['(11,3)','(12,3)','(13,3)','(14,3)']",['4'],3,4,furniture
+How many columns are there in 00 begane grond?,bouwlaag_1_floor.csv,"['(0, 4)']",['260.0'],0,260,floor
+What is the space count of F1?,12-1-1_floor.csv,"['(1, 8)']",['15.0'],0,15,floor
+How high above ground level is 00_Planta Baja?,provamodel_floor.csv,"['(1, 2)']",['0.0'],0,0,floor
+Can you share the quantity of beams in the building?,CHIAP_PRO_ARC_NORD_floor.csv,"['(0, 6)', '(1, 6)', '(2, 6)', '(3, 6)']",['89.0'],1,89,floor
+I want to know how many furnitures in this building are with furniture_id between 18500 and 19000?,231110AC11-Institute-Var-2-IFC_furniture.csv,"['(0,3)','(1,3)','(2,3)','(3,3)']",['4'],3,4,furniture
+Can you give me the height of 03 derde verdieping in relation to sea level?,kelder_floor.csv,"['(8, 2)']",['0.0'],0,0,floor
+Can you tell me the number of spaces available in Level 2?,Duplex_A_20110907_floor.csv,"['(1, 7)']",['10.0'],0,10,floor
+What is the elevation of KS_PL 01. verdieping above the ground?,02_BIMcollab_Example_STR_floor.csv,"['(2, 2)']",['3500.0'],0,3500,floor
+Can you tell me the elevation of Pavimento 1?,BEAM10STOREYifc4EBERICK_floor.csv,"['(0, 2)']",['0.0'],0,0,floor
+Can you tell me the number of columns in 00 begane grond?,IFCSchependomlaan_floor.csv,"['(1, 5)']",['5.0'],0,5,floor
+Can you share the room count for the building?,OfficeBuilding_floor.csv,"['(0, 7)', '(1, 7)', '(2, 7)', '(3, 7)', '(4, 7)']",['234'],1,234,floor
+Can you tell me the number of doors available in 1?,Architecturalmodel_floor.csv,"['(2, 3)']",['80.0'],0,80,floor
+Can you tell me the elevation of dak?,14.111_AVEC_VEEMARKTKWARTIER_150206_floor.csv,"['(7, 2)']",['0.0'],0,0,floor
+How many windows on floor named 02_Planta Principal?,provamodel_window.csv,"['(12,7)','(13,7)','(14,7)','(15,7)','(16,7)','(17,7)']",['7'],3,7,window
+Can you inform me of the amount of columns in the building?,GoogleFurnitureANDTechnology_2018-11-27_1130_floor.csv,"['(3, 4)']",['2.0'],1,2,floor
+How many columns on the T宀奉毚G 4 floor are not external?,002.NP_A_column.csv,"['(8,5)','(9,5)','(10,5)','(11,5)','(12,5)']",['5'],3,5,column
+Can you tell me the elevation of Mur de fondation T.O above ground level?,52Theparade(rvt2017)_floor.csv,"['(0, 2)']",['-300.0'],0,-300,floor
+How high above ground level is MEP 2nd Flr Ceiling in relation to sea level?,161210Med_Dent_Clinic_Combined_floor.csv,"['(6, 2)']",['7270'],0,7270,floor
+How many stories are there in the building?,rac_basic_sample_project1_floor.csv,"['(0, 1)', '(1, 1)', '(2, 1)', '(3, 1)', '(4, 1)', '(5, 1)']",['6'],3,6,floor
+Could you provide the total number of windows on First Floor?,Clinic_A_20110906_floor.csv,"['(1, 5)']",['44.0'],0,44,floor
+Can you tell me the elevation of 00 begane grond?,IFCSchependomlaan_floor.csv,"['(1, 2)']",['0.0'],0,0,floor
+Can you tell me the elevation of 04 vierde verdieping above ground level?,reinforcement_floor.csv,"['(1, 2)']",['0.0'],0,0,floor
+What is the elevation of -9.13 in meters above sea level?,shanpao1_floor.csv,"['(1, 2)']",['-9130.0'],0,-9130,floor
+What is the total number of rooms present in DG?,20170601_Mauer_BmB_floor.csv,"['(4, 6)']",['4.0'],0,4,floor
+How many spaces does the building have?,Duplex_A_20110907_optimized_floor.csv,"['(0, 6)', '(1, 6)', '(2, 6)']",['21.0'],1,21,floor
+What is the column count present in 02 tweede verdieping?,IFC_Schependomlaan_floor.csv,"['(3, 5)']",['8.0'],0,8,floor
+Can you tell me the number of spaces on Level 3?,rme_basic_sample_project_floor.csv,"['(2, 6)']",['46.0'],0,46,floor
+Can you tell me the height of Level 1?,duplex_floor.csv,"['(1, 2)']",['0.0'],0,0,floor
+Could you give me the total number of doors on Keller?,AC20-Institute-Var-2_EQU_2018_floor.csv,"['(0, 5)']",['32.0'],0,32,floor
+What is the beam count for the building?,Duplex_A_20110907_floor.csv,"['(0, 6)', '(1, 6)']",['8.0'],1,8,floor
+what is the number of  Riser of stair 87374?,Clinic_A_20110906_stair.csv,"['(1,4)']",['26'],0,26,stair
+How many columns does KG have?,20170601_Mauer_BmB_floor.csv,"['(1, 5)']",['1.0'],0,1,floor
+What is the number of windows on W_V0?,89f01178-ef8b-4240-88ee-74ca8ea62f5b_floor.csv,"['(0, 4)']",['74'],0,74,floor
+What is the total room count on Level 3?,EngBuiding_IFC2x3_floor.csv,"['(4, 8)']",['88.0'],0,88,floor
+Could you tell me the number of doors present on 02 tweede verdieping?,IFC_Schependomlaan_floor.csv,"['(3, 7)']",['60.0'],0,60,floor
+Can you tell me the total number of stairs on Ground Floor?,OfficeBuilding_floor.csv,"['(3, 5)']",['8.0'],0,8,floor
+What is the elevation of 5F above sea level?,project-checking-new_floor.csv,"['(4, 2)']",['11200.0'],0,11200,floor
+Show me the number of windows on the Dachgeschoss floor.,231110AC11-FZK-Haus-IFC_window.csv,"['(9,8)','(10,8)']",['2'],3,2,window
+Can you give me the elevation of Level 4 above the ground?,Structuralframe2017.03_floor.csv,"['(3, 2)']",['12600.0000000003'],0,12600,floor
+Can you give me the total number of stairs in Level 2?,Project1_floor.csv,"['(4, 4)']",['4.0'],0,4,floor
+Can you provide the height of 05 TO Parapet?,Architectural_floor.csv,"['(4, 2)']",['50.0'],0,50,floor
+How many stairs are on the Keller floor?,AC20-Institute-Var-2_EQU_2018_stair.csv,"['(0,6)','(1,6)']",['2'],3,2,stair
+which floor has most number of railing?,01_BIMcollab_Example_ARC_floor.csv,"['(2,1)']",['01 verdieping'],0,,floor
+Can you tell me the elevation of -10.38 above ground level?,shanpao1_floor.csv,"['(0, 2)']",['-10380.0'],0,-10380,floor
+How many windows are there on Level 2?,Learningzonecorentin_floor.csv,"['(3, 4)']",['139.0'],0,139,floor
+Can you give me the elevation of Niveau 1 above ground level?,52Theparade(rvt2017)_floor.csv,"['(2, 2)']",['0.0'],0,0,floor
+how many stairs are in the first floor?,Clinic_A_20110906_stair.csv,"['(0,9)','(1,9)','(2,9)']",['3'],3,3,stair
+Could you provide the window count for 2F?,project-checking-new_floor.csv,"['(1, 4)']",['38.0'],0,38,floor
+Can you provide the column count for the building?,231110AC11-Institute-Var-2-IFC_floor.csv,"['(1, 8)']",['2.0'],1,2,floor
+How many spaces are there in 娑撯偓鐏炲倸閽╅棃銏犳禈?,house_no_geo_floor.csv,"['(0, 7)']",['8.0'],0,8,floor
+What is the elevation of 1. Obergeschoss in meters above sea level?,261110Allplan-2008-Institute-Var-2-IFC_floor.csv,"['(2, 2)']",['2999.99'],0,2999.99,floor
+Could you give me the total number of stairs on 00 begane grond?,IFC_Schependomlaan_floor.csv,"['(1, 4)']",['3.0'],0,3,floor
+Could you provide the total number of stairs on Ground Floor?,20160414office_model_CV2_fordesign_floor.csv,"['(0, 5)']",['1.0'],0,1,floor
+Can you provide the elevation of F3 in relation to sea level?,Savoyvilla_floor.csv,"['(3, 2)']",['6600.0'],0,6600,floor
+Can you tell me the elevation of 2e?,14.111_AVEC_VEEMARKTKWARTIER_150206_floor.csv,"['(1, 2)']",['0.0'],0,0,floor
+How high above sea level is Center Radius in relation to the ground?,161210Med_Dent_Clinic_Combined_floor.csv,"['(14, 2)']",['3320'],0,3320,floor
+How many windows can be found in the building?,Duplex_A_20110907_optimized_with_changes_floor.csv,"['(0, 3)', '(1, 3)', '(2, 3)']",['48.0'],1,48,floor
+What`s the average width of window 66459 and window 33389? ,AC20-FZK-Haus_window.csv,"['(8,3)','(9,3)']",['1.5'],2,1.5,window
+Can you give me the column count present on toiture?,BUREAUX_CHURCHILL_AMENAGEMENT_INTERIEUR_floor.csv,"['(4, 3)']",['16'],0,16,floor
+Can you give me the space count of Erdgeschoss?,AC20-Institute-Var-2_EQU_2018_floor.csv,"['(1, 6)']",['18'],0,18,floor
+What is the height of Niveau 13 in relation to ground level?,Building_52Theparade(rvt2017)_floor.csv,"['(6, 2)']",['4043.86294603508'],0,4043.862946,floor
+What is the name of window with width 1.3?,provamodel_window.csv,"['(8,2)']",['Finestra patii 3:Finestra patii 3_4:1196038'],0,,window
+What is the number of floors in the structure?,Simple3-storeytestbuilding_floor.csv,"['(0, 1)', '(1, 1)', '(2, 1)', '(3, 1)']",['4'],3,4,floor
+How high above sea level is Parapet _1 in relation to the ground?,161210Med_Dent_Clinic_Combined_floor.csv,"['(13, 2)']",['5334'],0,5334,floor
+How high above the ground level is Level 4?,Simple3-storeytestbuilding_floor.csv,"['(3, 2)']",['7789.88385119004'],0,7789.883851,floor
+What is the door count of 1er sous-sol?,BUREAUX_CHURCHILL_AMENAGEMENT_INTERIEUR_floor.csv,"['(0, 4)']",['18'],0,18,floor
+Can you give me the column count of 02_Planta Principal?,provamodel_floor.csv,"['(5, 7)']",['30.0'],0,30,floor
+Can you provide the elevation of earth above sea level?,Project1_floor.csv,"['(2, 2)']",['0.0'],0,0,floor
+What is the total number of doors on Ground?,52TheparadewithSpaces_floor.csv,"['(1, 3)']",['1.0'],0,1,floor
+Can you provide the number of railings in the building?,IFC-gebouw_floor.csv,"['(1, 8)', '(2, 8)', '(3, 8)', '(4, 8)']",['90.0'],1,90,floor
+What is the elevation of 05 vijfde verdieping in meters above sea level?,GevelsDefinitief_floor.csv,"['(6, 2)']",['20700.0'],0,20700,floor
+What is the total number of doors on Level 1?,duplex_floor.csv,"['(1, 3)']",['12.0'],0,12,floor
+What is the elevation of Level 3 in meters?,Learningzonecorentin_floor.csv,"['(4, 2)']",['2.212'],0,2.212,floor
+What is the space count on Dachgeschoss?,261110Allplan-2008-Institute-Var-2-IFC_floor.csv,"['(4, 6)']",['3'],0,3,floor
+Can you tell me the height of 02 tweede verdieping?,bouwlaag_2_floor.csv,"['(6, 2)']",['0.0'],0,0,floor
+How tall is the building in terms of number of floors?,02_BIMcollab_Example_STR_floor.csv,"['(0, 1)', '(1, 1)', '(2, 1)', '(3, 1)', '(4, 1)']",['5'],3,5,floor
+How many furnitures are with furniture_id number less than 100000?,231110AC11-FZK-Haus-IFC_furniture.csv,"['(0,1)','(1,1)','(2,1)','(3,1)','(4,1)','(5,1)','(6,1)','(7,1)',]",['8'],3,9,furniture
+Could you provide the door count for V1_21_metselwerk_scheidingslijn?,89f01178-ef8b-4240-88ee-74ca8ea62f5b_floor.csv,"['(1, 5)']",['20.0'],0,20,floor
+Can you give me the height of Level 2 in relation to sea level?,Structuralframe2017.03_floor.csv,"['(1, 2)']",['4200.00000000031'],0,4200,floor
+Can you give me the number of windows on 01 eerste verdieping?,GevelsDefinitief_floor.csv,"['(2, 4)']",['55.0'],0,55,floor
+Can you tell me the total number of windows on 2nd Floor?,OfficeBuilding_floor.csv,"['(4, 3)']",['184'],0,184,floor
+What is the elevation of Second Floor in relation to sea level?,Clinic_A_20110906_floor.csv,"['(2, 2)']",['4.570000000004098'],0,4.57,floor
+What is the door count of Ground?,Leisurecentre_floor.csv,"['(0, 3)']",['6.0'],0,6,floor
+Can you tell me the height of Niveau 11?,Building_52Theparade(rvt2017)_floor.csv,"['(7, 2)']",['5543.86294603508'],0,5543.862946,floor
+Can you provide the elevation of N4 in relation to sea level?,CHIAP_PRO_ARC_NORD_floor.csv,"['(4, 2)']",['13.6'],0,13.6,floor
+How high above sea level is 3?,1916eeb7-f0eb-4fc6-a429-51e0e1e0481e_floor.csv,"['(3, 2)']",['12400.0'],0,12400,floor
+How many doors are located in the building?,Simple3-storeytestbuilding_floor.csv,"['(0, 3)', '(1, 3)', '(2, 3)']",['16.0'],1,16,floor
+How high above ground level is 05 dakplan in relation to sea level?,bouwlaag_2_floor.csv,"['(9, 2)']",['0.0'],0,0,floor
+How many stairs are there in F2?,12-1-1_floor.csv,"['(2, 7)']",['2.0'],0,2,floor
+Could you provide the column count of 00 begane grond?,kelder_floor.csv,"['(0, 4)']",['285.0'],0,285,floor
+What is the stair count of Level 1?,Duplex_A_20110907_optimized_floor.csv,"['(2, 7)']",['2.0'],0,2,floor
+Can you give me the window count present on Niveau 10?,52TheparadewithSpaces_floor.csv,"['(3, 4)']",['1.0'],0,1,floor
+What is the name of the beam with minimum id number?,0912102-01beam_profile_basic_rev_1_beam.csv,"['(1,3)']",['M_C-Channel:C380X50.4:C380X50.4:213306'],0,,beam
+Can you give me the door count present on 娴滃苯鐪伴獮鎶芥桨閸?,house_no_geo_floor.csv,"['(1, 3)']",['22.0'],0,22,floor
+Can you give me a rough figure of the number of railings in the building?,Clinic_A_20110906_floor.csv,"['(1, 6)', '(2, 6)']",['9.0'],1,9,floor
+Can you give me the height of MEP 1st Flr Supply in relation to sea level?,161210Med_Dent_Clinic_MEP_Mech_floor.csv,"['(3, 2)']",['3545.000000000001'],0,3545,floor
+Can you tell me the stair count on Level 1?,Project1_floor.csv,"['(3, 4)']",['6.0'],0,6,floor
+"The room count within the building, can you tell me?",52Theparade(rvt2017)_floor.csv,"['(2, 5)', '(6, 5)']",['8.0'],1,8,floor
+Can you give me the height of DG H鏋歨e Mauerwerk above sea level?,20170601_Mauer_BmB_floor.csv,"['(5, 2)']",['6.3'],0,6.3,floor
+How many rooms can be found in the building?,project-checking-new_floor.csv,"['(0, 8)']",['7.0'],1,7,floor
+Can you provide the floor count of the building?,52TheparadewithSpaces_floor.csv,"['(0, 1)', '(1, 1)', '(2, 1)', '(3, 1)', '(4, 1)', '(5, 1)', '(6, 1)', '(7, 1)']",['8'],3,8,floor
+What is the space count on 02_Planta Principal?,provamodel_floor.csv,"['(5, 8)']",['1.0'],0,1,floor
+How high above ground level is Level 1 in relation to sea level?,rme_basic_sample_project_floor.csv,"['(0, 2)']",['94.1717368783468'],0,94.17173688,floor
+What is the total number of stairs present in RH?,CHIAP_PRO_ARC_NORD_floor.csv,"['(0, 5)']",['2.0'],0,2,floor
+What is the column count of 05 dakplan?,kelder_floor.csv,"['(5, 4)']",['111.0'],0,111,floor
+What is the elevation of ROOF above the ground?,EngBuiding_IFC2x3_floor.csv,"['(7, 2)']",['22600.0'],0,22600,floor
+Can you provide the height of BG?,980d4a29-7879-42fa-902c-0df8fdd8ebd3_floor.csv,"['(11, 2)']",['0.0'],0,0,floor
+How high above sea level is Roof?,161210Med_Dent_Clinic_Combined_floor.csv,"['(10, 2)']",['8535'],0,8535,floor
+Could you provide the window count of Level 1?,Learningzonecorentin_floor.csv,"['(1, 4)']",['17.0'],0,17,floor
+What is the height of -5.559?,shanpao1_floor.csv,"['(6, 2)']",['-5559.0'],0,-5559,floor
+What is the total number of spaces on KG?,20170804_Musterhaus_MIT_floor.csv,"['(1, 5)']",['4.0'],0,4,floor
+What is the elevation of BG in relation to ground level?,14.111_AVEC_VEEMARKTKWARTIER_150206_floor.csv,"['(10, 2)']",['0.0'],0,0,floor
+What is the column count of AR-00-GF-CL?,StructuralModel_floor.csv,"['(1, 3)']",['9.0'],0,9,floor
+what is the height of space 40706?,20160414office_model_CV2_fordesign_space.csv,"['(8,4)']",['2400'],0,2400,space
+What is the total number of doors present in 2. etasje?,ARK_floor.csv,"['(3, 3)']",['14.0'],0,14,floor
+What is the elevation of 2. Obergeschoss?,AC20-Institute-Var-2_EQU_2018_floor.csv,"['(3, 2)']",['6.0'],0,6,floor
+Can you give me the elevation of 00 begane grond above ground level?,IFC-houtenkozijnen_floor.csv,"['(0, 2)']",['0.0'],0,0,floor
+Can you tell me the elevation of Undefined above ground level?,reinforcement.i_floor.csv,"['(9, 2)']",['0.0'],0,0,floor
+how many entrance doors are there in Level 1?,zz-rac_basic_sample_project_door.csv,"['(1,2)']",['1'],3,1,door
+How tall is the building in terms of number of storeys?,0912102010-03-01Project_floor.csv,"['(0, 1)', '(1, 1)', '(2, 1)', '(3, 1)']",['4'],3,4,floor
+What is the elevation of T/FDN in meters above sea level?,duplex_floor.csv,"['(0, 2)']",['-1.25'],0,-1.25,floor
+Can you give me the elevation of North Roof?,Learningzonecorentin_floor.csv,"['(9, 2)']",['8.6'],0,8.6,floor
+How high above sea level is Undefined in meters?,bouwlaag_2_floor.csv,"['(14, 2)']",['0.0'],0,0,floor
+Can you provide the number of columns present on AR-01-1st-CL?,StructuralModel_floor.csv,"['(2, 3)']",['4.0'],0,4,floor
+How many windows are in the building?,Architectural_floor.csv,"['(0, 3)', '(1, 3)', '(2, 3)']",['76.0'],1,76,floor
+Can you give me the total number of windows in Level 1 Living Rm.?,rac_basic_sample_project1_floor.csv,"['(1, 4)']",['8.0'],0,8,floor
+"How many doors are in the building, do you know?",house_no_geo_floor.csv,"['(0, 3)', '(1, 3)', '(2, 3)']",['40.0'],1,40,floor
+How high above ground level is Level 7 in relation to sea level?,091210Med_Dent_Clinic_Arch_floor.csv,"['(6, 2)']",['7535.000000000006'],0,7535,floor
+How high is 2?,Architecturalmodel_floor.csv,"['(3, 2)']",['6846.6666666666'],0,6846.666667,floor
+What is the window count of Level 2?,EngBuiding_IFC2x3_floor.csv,"['(3, 10)']",['82.0'],0,82,floor
+Could you give me the total number of windows on 00 begane grond?,IFC-gebouw_floor.csv,"['(1, 6)']",['100.0'],0,100,floor
+How many doors are present in the building?,Building_52Theparade(rvt2017)_floor.csv,"['(0, 3)', '(1, 3)', '(3, 3)', '(4, 3)', '(5, 3)']",['21.0'],1,21,floor
+Tell me the average GrossVolume value of columns on the W_V0 floor.,89f01178-ef8b-4240-88ee-74ca8ea62f5b_column.csv,"['(0,4)','(1,4)','(2,4)','(3,4)','(4,4)','(5,4)','(6,4)']",['1.88090551181102'],2,1.880905512,column
+How many doors are present in Level 2?,rac_basic_sample_project1_floor.csv,"['(4, 6)']",['16.0'],0,16,floor
+Can you give me the elevation of 1er sous-sol?,BUREAUX_CHURCHILL_AMENAGEMENT_INTERIEUR_floor.csv,"['(0, 2)']",['-2.86'],0,-2.86,floor
+How many doors are there in 00 begane grond?,IFCSchependomlaan_floor.csv,"['(1, 7)']",['91.0'],0,91,floor
+which floor have spaces?,12-1-1_floor.csv,"['(1,1)','(2,1)']","['F1','F2']",0,,floor
+Can you provide the elevation of 1e above the ground?,980d4a29-7879-42fa-902c-0df8fdd8ebd3_floor.csv,"['(10, 2)']",['0.0'],0,0,floor
+What is the door count on Level 1?,tent2_floor.csv,"['(0, 3)']",['3.0'],0,3,floor
