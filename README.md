@@ -23,7 +23,8 @@ The released resources are intended to support **reproducibility** and **further
 
 - **`evaluate_bimqa_xlnet.ipynb`**  
   Jupyter notebook for evaluating the **XLNet-based intent recognition** model on the BIM query dataset.
-
+- **`prompt-based learning on GPT.ipynb`**
+  Jupyter notebook demonstrating prompt-based learning with GPT models for BIM query understanding, used to analyze the performance of large language models without domain-specific fine-tuning.
 ---
 
 ### 🔹 Datasets
